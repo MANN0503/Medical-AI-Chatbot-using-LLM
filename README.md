@@ -1,0 +1,6 @@
+# Medical-AI-Chatbot-using-LLM
+The dynamic landscape of healthcare necessitates innovative solutions that address challenges in patient engagement, information accessibility, and administrative efficiency. Leveraging cutting-edge technologies such as the CTransformer (Casual Transformer) architecture, Vector Store, Llama 2 Model (LLM), and Sentence Transformers, this project endeavors to revolutionize healthcare experiences by integrating advanced AI-driven chatbots.
+
+The CTransformer architecture, specifically designed for conversational processing, empowers chatbots to generate coherent and contextually relevant responses, ensuring a more engaging user experience. The Vector Store technology significantly enhances the chatbot's ability to swiftly access pre-computed representations of words and phrases, thereby improving response accuracy and speed.
+
+Moreover, the Llama 2 Model (LLM), known for its prowess in understanding and generating human- like text, elevates the chatbot's capabilities in natural language processing tasks, enabling a more sophisticated interaction between users and the chatbot. Additionally, Sentence Transformers encode semantic meaning, enabling chatbots to analyze and respond to user queries more effectively, considering contextual nuances for higher-quality responses.
